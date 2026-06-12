@@ -8,8 +8,9 @@ angry = ["   ৹ Seriously? (ಠ_ಠ)", "   ৹ I am getting tired of this! ", "
 enough = ["   ৹ I have had enough! (╯°□°）╯︵ ┻━┻", "   ৹ I am done with this! (╯°□°）╯︵ ┻━┻", "   ৹ No more! (╯°□°）╯︵ ┻━┻","   ৹ I am not going to do this again! (╯°□°）╯︵ ┻━┻", "   ৹ I am done with you! (ノಠ益ಠ)ノ彡┻━┻"]
 not_possible = ["   ৹ Maybe in another universe", "   ৹ This is not possible", "   ৹ I don't think so", "   ৹ No", "   ৹ No way"]
 too_much = ["   ৹ I am saving your life", "   ৹ I thought you were a rational person, GET OUT!", "   ৹ No, that's too much", "   ৹ No, this is not good for you", "   ৹ I am not going to do that", "   ৹ really? anyway, I am not going to do that"]
-print("""[bold white]                 Welcome to [/bold white]
-[italic yellow]              the Hello World[/italic yellow]
+print("""
+[bold white]                 Welcome to [/bold white]
+[italic yellow]              the Hello, World[/italic yellow]
  [bold white]                 Printer![/bold white] 
     """)
 def agains_fun(do):
